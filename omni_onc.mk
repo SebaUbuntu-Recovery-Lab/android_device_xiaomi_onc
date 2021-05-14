@@ -32,7 +32,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := onc
 PRODUCT_NAME := omni_onc
-PRODUCT_BRAND := xiaomi
-PRODUCT_MODEL := xiaomi
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Redmi 7
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_RELEASE_NAME := xiaomi xiaomi
+PRODUCT_RELEASE_NAME := Xiaomi Redmi 7
